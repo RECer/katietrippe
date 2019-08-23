@@ -10,7 +10,7 @@ sections:
     url: "/generic"
     is_scrolly: false
     is_primary: false
-  title: Reflex
+  title: Katie Trippe
   img_path: "/images/Katie.jpg"
   component: intro.html
 - type: features
