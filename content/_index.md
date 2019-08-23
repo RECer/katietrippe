@@ -3,11 +3,9 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "Highly motivated self-starter with an international education, travel,
+  content: Highly motivated self-starter with an international education, travel,
     and career portfolio. Detail oriented with excellent research, writing, and intercommunication
     skills, with experience in gender, post-conflict justice, and peace building.
-    \  \n  \nPassion for community development, social justice, cultural diversity,
-    current affairs, international travel, and continuous learning."
   actions:
   - label: Learn More
     url: "/generic"
