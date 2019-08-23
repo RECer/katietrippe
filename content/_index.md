@@ -12,7 +12,7 @@ sections:
     is_scrolly: false
     is_primary: false
   title: Katie Trippe
-  img_path: "/images/Katie.jpg"
+  img_path: "/images/Katie-T.jpg"
   component: intro.html
 - type: features
   template: features
