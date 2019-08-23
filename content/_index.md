@@ -9,7 +9,7 @@ sections:
     \  \n  \nPassion for community development, social justice, cultural diversity,
     current affairs, international travel, and continuous learning."
   actions:
-  - label: Learn More about Me
+  - label: Learn More
     url: "/generic"
     is_scrolly: false
     is_primary: false
