@@ -3,8 +3,11 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
-    rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
+  content: "Highly motivated self-starter with an international education, travel,
+    and career portfolio. Detail oriented with excellent research, writing, and intercommunication
+    skills, with experience in gender, post-conflict justice, and peace building.
+    \  \n  \nPassion for community development, social justice, cultural diversity,
+    current affairs, international travel, and continuous learning."
   actions:
   - label: Get Started
     url: "/generic"
