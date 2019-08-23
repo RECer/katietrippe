@@ -3,15 +3,14 @@ title: Home
 sections:
 - type: intro
   template: intro
-  content: Highly motivated self-starter with an international education, travel,
-    and career portfolio. Detail oriented with excellent research, writing, and intercommunication
-    skills, with experience in gender, post-conflict justice, and peace building.
+  content: 'Highly motivated self-starter with an international education, travel,
+    and career portfolio. '
   actions:
   - label: Learn More
     url: "/generic"
     is_scrolly: false
     is_primary: false
-  title: Katie Trippe
+  title: Katie
   img_path: "/images/Katie-T.jpg"
   component: intro.html
 - type: features
